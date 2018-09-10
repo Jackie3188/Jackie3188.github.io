@@ -1,0 +1,38 @@
+/* css page */
+
+body{
+
+background-color: #101010;
+
+}
+
+div.logo{
+    /* background-color: aqua; */
+    margin-top:20px;
+}
+
+
+div.logo img{
+display: block;
+max-width: 5%;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+div.bkgdimg{
+
+ /* background-color: brown; */
+ margin-top: 20px;
+
+
+}
+
+div.bkgdimg img{
+
+    
+max-width:100%;
+
+
+}
