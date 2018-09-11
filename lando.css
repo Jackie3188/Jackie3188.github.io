@@ -29,9 +29,6 @@ div.over{
     text-align: center;
     z-index: 2;
     margin-left: 540px;
-
-    
-   
    
     position:absolute;
     
@@ -54,11 +51,43 @@ div.under{
     
     }
 
-    /* p{
+    p{
         font-family: Helvetica;
-        font-size: 20px;
-        color:#fdf2d3;
+        font-size: 25px;
+        color:#101010;
         text-align: center;
-        margin-top:300px;
+        margin-top:270px;
+        font-weight: 600;
+     
         
-    } */
+    }
+
+    button{
+
+    display: block;
+    margin:0px;
+    background-color: #eeaf03;
+    color: #fdf2d3;
+    border-color: #fdf2d3;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Helvetica;
+    font-weight: 100;
+    -webkit-transition-duration: 0.3s;
+ 
+
+    
+
+    }
+
+    button:hover{
+
+    
+        background-color: #101010;
+        border: none;
+        font-weight: 400;
+       
+        
+        
+    }
