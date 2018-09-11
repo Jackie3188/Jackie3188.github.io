@@ -51,7 +51,7 @@ div.under{
     
     }
 
-    p{
+    p.name{
         font-family: Helvetica;
         font-size: 25px;
         color:#101010;
@@ -62,7 +62,7 @@ div.under{
         
     }
 
-    button{
+    button.exercise{
 
     display: block;
     margin:0px;
@@ -81,7 +81,7 @@ div.under{
 
     }
 
-    button:hover{
+    button.exercise:hover{
 
     
         background-color: #101010;
