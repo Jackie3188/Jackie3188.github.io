@@ -62,7 +62,7 @@ div.under{
         
     }
 
-    button.exercise{
+    button{
 
     display: block;
     margin:0px;
@@ -81,7 +81,7 @@ div.under{
 
     }
 
-    button.exercise:hover{
+    button:hover{
 
     
         background-color: #101010;
